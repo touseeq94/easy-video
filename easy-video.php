@@ -17,7 +17,7 @@
  * Plugin URI:        Easy Video
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
- * Author:            Iftikhar
+ * Author:            Touseeq
  * Author URI:        #
  * License:           GPL-2.0+
  * License URI:       #
